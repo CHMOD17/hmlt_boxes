@@ -1,0 +1,28 @@
+<section id="boxes">
+
+  <div class="container">
+
+    <div class="box">
+      <img src="./img/logo_html.png" alt="Html 5 logo">
+      <h3>Html 5 Markup</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      </p>
+    </div>
+
+    <div class="box">
+      <img src="./img/logo_css.png" alt="Logo of CSS 3">
+      <h3>CSS 3 Styling</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      </p>
+    </div>
+
+    <div class="box">
+      <img src="./img/logo_brush.png" alt="laptop logo">
+      <h3>Graphic Design</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      </p>
+    </div>
+
+  </div>
+
+</section>
